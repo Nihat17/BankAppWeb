@@ -1,1 +1,1 @@
-Used technologies: Java, Spring Core, Spring MVC, Hibernate, Mysql
+Used technologies: Java, Spring Core, Spring MVC, Hibernate, Mysql, JSP, HTML, CSS
