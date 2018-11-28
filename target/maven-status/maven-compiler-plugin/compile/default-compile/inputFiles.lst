@@ -1,0 +1,8 @@
+/home/marshall/workspace/BankAppWeb/src/main/java/com/bankapp/service/BankServiceImpl.java
+/home/marshall/workspace/BankAppWeb/src/main/java/com/bankapp/dao/BankDAO.java
+/home/marshall/workspace/BankAppWeb/src/main/java/com/bankapp/service/BankService.java
+/home/marshall/workspace/BankAppWeb/src/main/java/com/bankapp/entities/User.java
+/home/marshall/workspace/BankAppWeb/src/main/java/com/bankapp/controller/BankController.java
+/home/marshall/workspace/BankAppWeb/src/main/java/com/bankapp/dao/BankDAOImpl.java
+/home/marshall/workspace/BankAppWeb/src/main/java/com/bankapp/entities/Account.java
+/home/marshall/workspace/BankAppWeb/src/main/java/com/bankapp/entities/AccountUserDetail.java
